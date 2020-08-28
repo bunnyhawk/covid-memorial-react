@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bunnyhawk/covid-memorial/static/css/main.127be1ce.chunk.css",
+    "main.js": "/bunnyhawk/covid-memorial/static/js/main.c2064c10.chunk.js",
+    "main.js.map": "/bunnyhawk/covid-memorial/static/js/main.c2064c10.chunk.js.map",
+    "runtime-main.js": "/bunnyhawk/covid-memorial/static/js/runtime-main.406281c3.js",
+    "runtime-main.js.map": "/bunnyhawk/covid-memorial/static/js/runtime-main.406281c3.js.map",
+    "static/js/2.b57481fb.chunk.js": "/bunnyhawk/covid-memorial/static/js/2.b57481fb.chunk.js",
+    "static/js/2.b57481fb.chunk.js.map": "/bunnyhawk/covid-memorial/static/js/2.b57481fb.chunk.js.map",
+    "index.html": "/bunnyhawk/covid-memorial/index.html",
+    "precache-manifest.dd85362cc0cdcb5693ca8e9d963be73b.js": "/bunnyhawk/covid-memorial/precache-manifest.dd85362cc0cdcb5693ca8e9d963be73b.js",
+    "service-worker.js": "/bunnyhawk/covid-memorial/service-worker.js",
+    "static/css/main.127be1ce.chunk.css.map": "/bunnyhawk/covid-memorial/static/css/main.127be1ce.chunk.css.map",
+    "static/js/2.b57481fb.chunk.js.LICENSE.txt": "/bunnyhawk/covid-memorial/static/js/2.b57481fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406281c3.js",
+    "static/js/2.b57481fb.chunk.js",
+    "static/css/main.127be1ce.chunk.css",
+    "static/js/main.c2064c10.chunk.js"
+  ]
+}
